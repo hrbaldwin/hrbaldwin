@@ -1,10 +1,9 @@
 <h1 align="center"> Welcome 👋 </h1>
 <h3 align="center"> I am a full stack software engineer and student with a love for front end development and design.</h3>
-About me 👩🏼‍💻: Originally from Nashville, TN, currently living in beautiful Colorado. I made the switch to a career in tech in 2022 and I am so glad I did. I really enjoy the constant learning it requires, as well as the creative, problem-solving nature of coding. <strong> I am so lucky to have found an industry that I can truly say I am passionate about. </strong>
 
-- 🔭 I’m currently learning Java.
+- 🔭 I’m currently learning Python, C#, and WPF applications.
 
-- 🌟 I am looking for full time work. If you or your team is looking for a dedicated developer, <strong> please reach out! </strong>
+- 🌟 I am looking for part time work and internships. If you or your team is looking for a dedicated developer, <strong> please reach out! </strong>
 
 - 📫 How to reach me: Let's connect. [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrbaldwin/)
 
