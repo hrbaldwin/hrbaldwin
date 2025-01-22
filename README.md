@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome 👋 </h1>
-<h3 align="center"> I am a full stack software engineer and student with a love for front end development and design.</h3>
+<h3 align="center"> I am a junior full stack software engineer and computer science student.</h3>
 
-- 🔭 I’m currently learning Python, C#, and WPF applications.
+- 🔭 I’m currently furthering my database skills in PostgreSQL.
 
 - 🌟 I am looking for part time work and internships. If you or your team is looking for a dedicated developer, <strong> please reach out! </strong>
 
